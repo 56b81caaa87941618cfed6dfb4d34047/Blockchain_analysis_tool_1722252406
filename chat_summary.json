@@ -36,5 +36,11 @@
         "content": "Got it, adding a button that displays 'Hello World'.",
         "timestamp": "29072024112849",
         "message_id": "guest29072024112848"
+    },
+    {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Where would you like the 'Hello World' button to be positioned on the screen?\", \"option1\": \"Center of the screen\", \"option2\": \"Bottom of the screen\"}, {\"question 2\": \"What action should occur when the 'Hello World' button is pressed?\", \"option1\": \"Display a greeting message\", \"option2\": \"Open a new page\"}], \"input_token_count\": 310, \"output_token_count\": 91, \"time_taken\": \"0:00:05.487601\"}",
+        "timestamp": "29072024112855",
+        "message_id": "guest29072024112848"
     }
 ]
