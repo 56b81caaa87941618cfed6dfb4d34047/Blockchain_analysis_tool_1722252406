@@ -54,5 +54,11 @@
         "content": "add a button that says hello world",
         "timestamp": "29072024124648",
         "message_id": "guest29072024124648"
+    },
+    {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Where do you want the 'Hello World' button placed within the app?\", \"option1\": \"At the top of the main page\", \"option2\": \"At the bottom of the main page\"}, {\"question 2\": \"What action should occur when the 'Hello World' button is clicked?\", \"option1\": \"Display a greeting message on the screen\", \"option2\": \"Open a new page with more information\"}], \"input_token_count\": 334, \"output_token_count\": 101, \"time_taken\": \"0:00:09.812325\"}",
+        "timestamp": "29072024124700",
+        "message_id": "guest29072024124648"
     }
 ]
